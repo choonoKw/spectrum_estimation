@@ -13,6 +13,7 @@ Like Pisarenko's method, the MUSIC algorithm is a frequency estimation technique
 
 The frequency estimation function of MUSIC, where the effects of spurious peaks are reduced by averaging, is defined as
 
-$$\hat{P}_{MU}(e^{jw})$$ $$= \frac{1}{\sum_{i=p+1}^M |\mathbf{e}^H\mathbf{v_i}|^2 } $$
+$$\hat{P}_{MU}(e^{jw})$$
+$$= \frac{1}{\sum_{i=p+1}^M |\mathbf{e}^H\mathbf{v_i}|^2 } $$
 
 The frequencies of the complex exponentials are then taken as the locations of the $p$ largest peaks in 
