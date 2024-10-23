@@ -27,3 +27,6 @@ This function codes takses the received signal ![x](https://latex.codecogs.com/s
 
 ## phd.m
 This function code takes the received signal ![x](https://latex.codecogs.com/svg.image?\mathbf{x}) and the model order ![x](https://latex.codecogs.com/svg.image?p) as input and provides the eigenvector of the correlation matrix ![x](https://latex.codecogs.com/svg.image?\mathbf{R_x}) corresponding to the smallest eigenvalue and the estimated noise variance ![x](https://latex.codecogs.com/svg.image?\sigma_\omega^2).
+
+## script.mlx
+This MATLAB Live Script provides the example of estimating the frequencies from the received signal that includes these sinusoidal signals and white Gaussian noise. It shows the plot of the spectrums estimated using PHD and MUSIC respectively.
