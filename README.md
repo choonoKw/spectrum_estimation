@@ -30,6 +30,6 @@ This function code takes the received signal ![x](https://latex.codecogs.com/svg
 
 ## script.mlx
 This MATLAB Live Script provides the example of estimating the frequencies from the received signal that includes these sinusoidal signals and white Gaussian noise. It shows the plot of the spectrums estimated using PHD and MUSIC respectively.
-![plot](https://github.com/user-attachments/assets/791587e1-2e7a-49f5-8f59-21d9c7987af1)
+<img src="https://github.com/user-attachments/assets/791587e1-2e7a-49f5-8f59-21d9c7987af1" width="500">
 
 
