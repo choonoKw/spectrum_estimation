@@ -15,3 +15,5 @@ The frequency estimation function of MUSIC, where the effects of spurious peaks 
 ![Equation](https://latex.codecogs.com/png.latex?\hat{P}_{MU}(e^{jw})=\frac{1}{\sum_{i=p+1}^M|\mathbf{e}^H\mathbf{v_i}|^2})
 
 The frequencies of the complex exponentials are then taken as the locations of the $p$ largest peaks in 
+
+Vector ![x](https://latex.codecogs.com/png.latex?\mathbf{x}) denotes the waveform.
